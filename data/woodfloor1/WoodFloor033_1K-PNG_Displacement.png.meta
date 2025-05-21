@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>ccf8786ca042d99c3c09516206deb9d14791da20</guid>
+	<type>texture</type>
+	<hash>54cac338</hash>
+	<runtimes>
+		<runtime id="ccf8786ca042d99c3c09516206deb9d14791da20" name="WoodFloor033_1K-PNG_Displacement.png" link="0" type="6"/>
+		<runtime id="9a747589e92cbdbe69ae404bb377b11848dfc6ff" name="WoodFloor033_1K-PNG_Displacement.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="int" name="blur_radius">1</parameter>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">ATI1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="bool" name="mipmap_sharp_only_lightness">1</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">parallax</parameter>
+		<parameter type="float" name="sharpness_intensity">0.25</parameter>
+		<parameter type="float" name="sharpness_radius">1</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

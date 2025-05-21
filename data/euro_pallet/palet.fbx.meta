@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>cd5e4fe510c5e48f630fdf34fe7954036271a463</guid>
+	<type>fbx</type>
+	<hash>ff87267a</hash>
+	<runtimes>
+		<runtime id="cd5e4fe510c5e48f630fdf34fe7954036271a463" name="palet.fbx" link="0"/>
+		<runtime id="c597e9af8511282ad605b7564d3c80ce1f5cce1d" name="palet.node" link="1" type="3">
+			<parameters>
+				<parameter type="string" name="id">595aff</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="a96a656daf7031e606e46e12ab531d78ef19f8d8" name="plane.001.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">916c2a1c</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="e8a3d07926eae9aeebdd6878d8e8984806fea657" name="plane.002.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">26e18e9b</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="b1fe6667ac612d4c630c3594f8e4b7084c230fca" name="plane.003.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">8020ce88</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="8e4560532e5af202a3df9a6a4af7c9da9d3b3ca1" name="plane.004.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">f3cc52e</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="0b023bf1cca45dd818b1a4e6180f1bf7be522d8c" name="cylinder.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">2dc7ab37</parameter>
+			</parameters>
+		</runtime>
+		<runtime id="b14d9fbd52deabd571cd99ac39427764176d0b7b" name="cylinder.051.mesh" link="2" type="1">
+			<parameters>
+				<parameter type="string" name="id">0f086d39</parameter>
+			</parameters>
+		</runtime>
+	</runtimes>
+	<parameters>
+		<parameter type="float" name="angular_deflection">0.699999988</parameter>
+		<parameter type="bool" name="asset_name_as_prefix">0</parameter>
+		<parameter type="string" name="base_material_mode">inherit_mesh_base</parameter>
+		<parameter type="float" name="bound_size">10000</parameter>
+		<parameter type="bool" name="create_transform_bones_for_joints">0</parameter>
+		<parameter type="float" name="fps">30</parameter>
+		<parameter type="string" name="front_axis">default</parameter>
+		<parameter type="bool" name="import_animations">1</parameter>
+		<parameter type="bool" name="import_bones_without_skin">1</parameter>
+		<parameter type="bool" name="import_cameras">1</parameter>
+		<parameter type="bool" name="import_lights">1</parameter>
+		<parameter type="bool" name="import_materials">1</parameter>
+		<parameter type="string" name="import_materials_mode">take_by_name_or_create</parameter>
+		<parameter type="bool" name="import_meshes">1</parameter>
+		<parameter type="bool" name="import_morph_targets">0</parameter>
+		<parameter type="bool" name="import_tangent_space">1</parameter>
+		<parameter type="bool" name="import_textures">1</parameter>
+		<parameter type="bool" name="invert_gchannel_for_normal_maps">0</parameter>
+		<parameter type="bool" name="joints_reorientation">0</parameter>
+		<parameter type="string" name="lightmaps">{&quot;guid://b14d9fbd52deabd571cd99ac39427764176d0b7b&quot;:{&quot;Material.004&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://0b023bf1cca45dd818b1a4e6180f1bf7be522d8c&quot;:{&quot;Material.004&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://a96a656daf7031e606e46e12ab531d78ef19f8d8&quot;:{&quot;Material.003&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://e8a3d07926eae9aeebdd6878d8e8984806fea657&quot;:{&quot;Material.003&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://b1fe6667ac612d4c630c3594f8e4b7084c230fca&quot;:{&quot;Material.003&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}},&quot;guid://8e4560532e5af202a3df9a6a4af7c9da9d3b3ca1&quot;:{&quot;Material.002&quot;:{&quot;use_custom_settings&quot;:0,&quot;uv_ch&quot;:1,&quot;unwrap_uv_ch_0&quot;:0,&quot;unwrap_uv_ch_1&quot;:0,&quot;resolution&quot;:3}}}</parameter>
+		<parameter type="float" name="linear_deflection">0.200000003</parameter>
+		<parameter type="string" name="lods">_lod_0,-1e+09,3,0,0,100,0,0,60;_lod_1,3,9,0,0,60,0,1,60;_lod_2,9,1e+09,0,0,30,0,1,60</parameter>
+		<parameter type="string" name="lods_mode">off</parameter>
+		<parameter type="string" name="material_guids">material.002,8d931457b58bbb3d7a9802443057376913a734fa,material.003,e2073ddd5703ef1ca5b277428677bc1f1b988288,material.004,77efbb61681e210e0691e11664ab4b83646bfa3c</parameter>
+		<parameter type="bool" name="merge_similar_materials">0</parameter>
+		<parameter type="bool" name="merge_static_meshes">0</parameter>
+		<parameter type="bool" name="merge_surfaces_by_materials">0</parameter>
+		<parameter type="float" name="morph_targets_normals_angle">180</parameter>
+		<parameter type="string" name="morph_targets_normals_mode">import</parameter>
+		<parameter type="bool" name="need_repivot">0</parameter>
+		<parameter type="bool" name="need_split">0</parameter>
+		<parameter type="bool" name="need_triagulate">1</parameter>
+		<parameter type="int" name="num_lods">3</parameter>
+		<parameter type="string" name="prefix_materials"/>
+		<parameter type="string" name="resolution">256</parameter>
+		<parameter type="float" name="scale">10</parameter>
+		<parameter type="bool" name="skip_empty_nodes">0</parameter>
+		<parameter type="int" name="smooth_animation_size">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_0">0</parameter>
+		<parameter type="bool" name="unwrap_uv_ch_1">0</parameter>
+		<parameter type="string" name="up_axis">default</parameter>
+		<parameter type="bool" name="use_instances">1</parameter>
+		<parameter type="int" name="uv_ch">1</parameter>
+		<parameter type="bool" name="vertex_cache">1</parameter>
+		<parameter type="string" name="workflow">metalness</parameter>
+	</parameters>
+</asset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>691fc4f226ac11d9df2987a26cb956bf855afcc3</guid>
+	<type>material</type>
+	<hash>7c3d513b</hash>
+	<runtimes>
+		<runtime id="691fc4f226ac11d9df2987a26cb956bf855afcc3" name="cement" link="0" type="5"/>
+	</runtimes>
+</asset>

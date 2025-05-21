@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="4549f22a01f555b1492ad3a74529f8d5699f2725" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<state name="ao_map">1</state>
+	<texture name="albedo">guid://42b6c6e6990593ec946644ec492e66e24fea9234</texture>
+	<texture name="normal">guid://895894bc98b570d6b0f4d192aab48fd735cd361a</texture>
+	<texture name="ambient_occlusion">guid://36b9c5e8c0671e478d16345ed9b31d4d8c891de6</texture>
+</material>

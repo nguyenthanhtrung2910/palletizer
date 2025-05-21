@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="1884263910" name="palet">
+		<transform>1 -6.61744490042e-24 -2.96118718933e-16 0.0 -3.30872245021e-24 1 -2.43359289501e-08 0.0 2.96118718933e-16 2.43359289501e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1235825677" immovable="1" name="Plane">
+			<mesh_name>guid://a96a656daf7031e606e46e12ab531d78ef19f8d8</mesh_name>
+			<surface name="Material.003" intersection="1" material="e2073ddd5703ef1ca5b277428677bc1f1b988288"/>
+			<transform>100 -2.4335932915e-06 2.43359289501e-06 0.0 -2.4335932915e-06 -1.6292067896e-05 100 0.0 -2.43359289501e-06 -100 -1.62920679553e-05 0.0 -3.6126483145e-16 -1.48449164275e-08 1.21999998093 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="2047395336" immovable="1" name="Plane.001">
+			<mesh_name>guid://e8a3d07926eae9aeebdd6878d8e8984806fea657</mesh_name>
+			<surface name="Material.003" intersection="1" material="e2073ddd5703ef1ca5b277428677bc1f1b988288"/>
+			<transform>100 -2.4335932915e-06 2.43359289501e-06 0.0 -2.4335932915e-06 -1.6292067896e-05 100 0.0 -2.43359289501e-06 -100 -1.62920679553e-05 0.0 -2.96118718933e-16 -1.21679644751e-08 1 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1150300615" immovable="1" name="Plane.002">
+			<mesh_name>guid://b1fe6667ac612d4c630c3594f8e4b7084c230fca</mesh_name>
+			<surface name="Material.003" intersection="1" material="e2073ddd5703ef1ca5b277428677bc1f1b988288"/>
+			<transform>100 -2.4335932915e-06 2.43359289501e-06 0.0 -2.4335932915e-06 -1.6292067896e-05 100 0.0 -2.43359289501e-06 -100 -1.62920679553e-05 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="134595706" immovable="1" name="Plane.003">
+			<mesh_name>guid://8e4560532e5af202a3df9a6a4af7c9da9d3b3ca1</mesh_name>
+			<surface name="Material.002" intersection="1" material="8d931457b58bbb3d7a9802443057376913a734fa"/>
+			<transform>100 -2.4335932915e-06 2.43359289501e-06 0.0 -2.4335932915e-06 -1.6292067896e-05 100 0.0 -2.43359289501e-06 -100 -1.62920679553e-05 0.0 -6.51461195772e-17 -2.67695224254e-09 0.220000004768 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="552372625" immovable="1" name="Cylinder">
+			<mesh_name>guid://0b023bf1cca45dd818b1a4e6180f1bf7be522d8c</mesh_name>
+			<surface name="Material.004" intersection="1" material="77efbb61681e210e0691e11664ab4b83646bfa3c"/>
+			<transform>100 -2.4335932915e-06 2.43359289501e-06 0.0 -2.4335932915e-06 -1.6292067896e-05 100 0.0 -2.43359289501e-06 -100 -1.62920679553e-05 0.0 5.63200005661 3.58001540996 1.39273905342 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="376092092" immovable="1" name="Cylinder.001">
+			<mesh_name>guid://b14d9fbd52deabd571cd99ac39427764176d0b7b</mesh_name>
+			<surface name="Material.004" intersection="1" material="77efbb61681e210e0691e11664ab4b83646bfa3c"/>
+			<transform>100 -2.4335932915e-06 2.43359289501e-06 0.0 -2.4335932915e-06 -1.6292067896e-05 100 0.0 -2.43359289501e-06 -100 -1.62920679553e-05 0.0 5.63200005661 3.5800154266 0.0250841695571 1.0</transform>
+		</node>
+	</node>
+</nodes>

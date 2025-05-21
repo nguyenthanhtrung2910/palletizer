@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="e2073ddd5703ef1ca5b277428677bc1f1b988288" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<texture name="albedo">guid://ad17b6bb3d805ee939025d3239dd4f9129c73bc9</texture>
+	<texture name="normal">guid://715db7ab1e8fa44c98f25e620b47013a74545539</texture>
+	<parameter name="albedo_color" expression="0">0.800000012 0.800000012 0.800000012 1</parameter>
+</material>

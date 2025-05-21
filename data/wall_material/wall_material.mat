@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material version="2.19.0.3" guid="71264f38d708e65dfc36725e9c9de91a950e3109" base_material="4dfec30f491f753f6e89094db6d3d695e89f9d6f">
+	<state name="ao_map">1</state>
+	<state name="displacement">1</state>
+	<texture name="albedo">guid://de036d457e26d987c219aa092ceceb281ba80893</texture>
+	<texture name="normal">guid://e78d130c44e17061fa6bfe18949d97b26bbaef3e</texture>
+	<texture name="ambient_occlusion">guid://794f4177a542c4d536fec35b83259247261b47f5</texture>
+	<texture name="displacement">guid://318cdd81925c43d13773ba05600e8fb5fdc6b5ef</texture>
+</material>

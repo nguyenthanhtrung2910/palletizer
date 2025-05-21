@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<property version="2.19.0.3" name="ScreenshotMaker" manual="1" parent_name="node_base">
+	<parameter name="name_prefix" type="string">screenshot</parameter>
+	<parameter name="size" type="ivec2">640 480</parameter>
+	<parameter name="format" type="switch" items="tga,png,jpg">0</parameter>
+	<parameter name="alpha_channel" type="toggle">0</parameter>
+</property>

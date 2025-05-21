@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>7b950bf2719fc528cc66d8c20b068f5bebe160a9</guid>
+	<type>material</type>
+	<hash>de8f57ee</hash>
+	<runtimes>
+		<runtime id="7b950bf2719fc528cc66d8c20b068f5bebe160a9" name="woodfloor2" link="0" type="5"/>
+	</runtimes>
+	<parameters>
+		<parameter type="bool" name="unchanged">1</parameter>
+	</parameters>
+</asset>

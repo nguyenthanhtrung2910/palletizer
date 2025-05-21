@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="597628395" name="street_lamp">
+		<transform>1 -6.61744490042e-24 -2.96118718933e-16 0.0 -3.30872245021e-24 1 -2.43359289501e-08 0.0 2.96118718933e-16 2.43359289501e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="305246798" immovable="1" name="pCylinder14">
+			<mesh_name>guid://0ca0c1a5ee3ac7566265f0da053533cfdadeaaef</mesh_name>
+			<surface name="light_" intersection="1" material="6adcb9d5efc7b6960c3a7db48ef15281db3c2806"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1604195669" immovable="1" name="polySurface12">
+			<mesh_name>guid://bcb0fda1b6731feba0c36e501a1bf6d1c32fdb82</mesh_name>
+			<surface name="lambert2" intersection="1" material="942f810f0db161ffc46eea06cda57a7febb8bd28"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

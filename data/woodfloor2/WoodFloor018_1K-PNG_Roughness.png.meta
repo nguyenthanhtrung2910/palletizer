@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>33e0d84ea6ef6c2d53b44514cbed7c92b6ea385c</guid>
+	<type>texture</type>
+	<hash>dc402935</hash>
+	<runtimes>
+		<runtime id="33e0d84ea6ef6c2d53b44514cbed7c92b6ea385c" name="WoodFloor018_1K-PNG_Roughness.png" link="0" type="6"/>
+		<runtime id="410099d3f170c990aea2390541da3bf859c4780b" name="WoodFloor018_1K-PNG_Roughness.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="int" name="blur_radius">1</parameter>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">ATI1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="bool" name="mipmap_sharp_only_lightness">1</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">custom</parameter>
+		<parameter type="float" name="sharpness_intensity">0.25</parameter>
+		<parameter type="float" name="sharpness_radius">1</parameter>
+		<parameter type="bool" name="srgb_correction">1</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

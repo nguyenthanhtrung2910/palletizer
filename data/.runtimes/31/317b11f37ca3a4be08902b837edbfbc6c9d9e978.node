@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="1480647572" name="Drink boxes pile, pallet cardboard -poly">
+		<transform>1 -6.61744490042e-24 -2.96118718933e-16 0.0 -3.30872245021e-24 1 -2.43359289501e-08 0.0 2.96118718933e-16 2.43359289501e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="1272674787" immovable="1" name="meshes[0]">
+			<mesh_name>guid://35942c568ca9a6494e603606ba87e5261c3d9e77</mesh_name>
+			<surface name="surface_0" intersection="1" material="efcd04d0aa9119baaa39400099ddcbc9c644caf9"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+	</node>
+</nodes>

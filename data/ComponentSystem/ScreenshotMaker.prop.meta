@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>6cb5e71cd78da15b9190243b44844e6529d92758</guid>
+	<type>property</type>
+	<hash>cfce6aef</hash>
+	<runtimes>
+		<runtime id="6cb5e71cd78da15b9190243b44844e6529d92758" name="ScreenshotMaker" link="0" type="4"/>
+	</runtimes>
+</asset>

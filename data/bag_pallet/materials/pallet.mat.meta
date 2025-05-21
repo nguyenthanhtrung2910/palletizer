@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>8e1511c0f1253eafc40190f068d273c6d84968a9</guid>
+	<type>material</type>
+	<hash>764a5735</hash>
+	<runtimes>
+		<runtime id="8e1511c0f1253eafc40190f068d273c6d84968a9" name="pallet" link="0" type="5"/>
+	</runtimes>
+</asset>

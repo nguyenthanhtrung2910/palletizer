@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asset version="2.19.0.3">
+	<guid>6b00d7bb4bcbcae51615f62d66862fb2eb2ddaf3</guid>
+	<type>texture</type>
+	<hash>6af78ee8</hash>
+	<runtimes>
+		<runtime id="6b00d7bb4bcbcae51615f62d66862fb2eb2ddaf3" name="WoodFloor018_1K-PNG_AmbientOcclusion.png" link="0" type="6"/>
+		<runtime id="62951a387936c088456a3a2ed8bb0530d4bae3b6" name="WoodFloor018_1K-PNG_AmbientOcclusion.texture" link="1" type="6"/>
+	</runtimes>
+	<parameters>
+		<parameter type="int" name="blur_radius">1</parameter>
+		<parameter type="string" name="height">auto</parameter>
+		<parameter type="string" name="image_format">ATI1</parameter>
+		<parameter type="string" name="image_type">2d</parameter>
+		<parameter type="bool" name="invert_g">0</parameter>
+		<parameter type="bool" name="mipmap_sharp_only_lightness">1</parameter>
+		<parameter type="string" name="mipmap_type">box</parameter>
+		<parameter type="string" name="preset_name">ambient occlusion</parameter>
+		<parameter type="float" name="sharpness_intensity">0.25</parameter>
+		<parameter type="float" name="sharpness_radius">1</parameter>
+		<parameter type="bool" name="srgb_correction">0</parameter>
+		<parameter type="bool" name="unchanged">0</parameter>
+		<parameter type="string" name="width">auto</parameter>
+	</parameters>
+</asset>

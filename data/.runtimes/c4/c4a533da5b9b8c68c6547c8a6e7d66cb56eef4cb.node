@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nodes version="2.19.0.3">
+	<node type="NodeDummy" id="692250288" name="1">
+		<transform>1 -6.61744490042e-24 -2.96118718933e-16 0.0 -3.30872245021e-24 1 -2.43359289501e-08 0.0 2.96118718933e-16 2.43359289501e-08 1 0.0 0 0 0 1.0</transform>
+		<node type="ObjectMeshStatic" id="65981007" immovable="1" name="Cube.184">
+			<mesh_name>guid://325bdb9144c2951c630ccca188d0e835c3ed43ae</mesh_name>
+			<surface name="Pallet" intersection="1" material="8e1511c0f1253eafc40190f068d273c6d84968a9"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 0 0 0 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1440854882" immovable="1" name="Cube.202">
+			<mesh_name>guid://9fe0609c75a608643adf08cc92dc0f925470b735</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 8.4426741766e-08 5 6.08398223753e-08 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="183507801" immovable="1" name="Cube.203">
+			<mesh_name>guid://a4b5412b602739b0ec91e8bb0848961153545f10</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.61882977643 2.0242270968 0.50428226073 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="557239524" immovable="1" name="Cube.204">
+			<mesh_name>guid://e859372ec68847c4889f4ade91d35ea85e28272f</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.62243539519 0.663951685109 0.504282244178 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1142829811" immovable="1" name="Cube.205">
+			<mesh_name>guid://7cc1cc558a634adcd73c0e65f3ff6ba4d7acaac2</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.6206325358 -0.710747144498 0.504282227451 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="872373174" immovable="1" name="Cube.206">
+			<mesh_name>guid://f4e32c109c65741a334f974034b21a8ba92eeb39</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.62063250244 -2.08184017941 0.51776239723 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="330768285" immovable="1" name="Cube.210">
+			<mesh_name>guid://80add78f352648e51b82381f7bd69bb67e1a9b44</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.78177513918 -1.89455200304 0.517762399509 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1235819608" immovable="1" name="Cube.211">
+			<mesh_name>guid://452dc7c25c57a6eebe215672a5f3d7fc6749edd3</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.7817750929 0.00750376860982 0.517762422653 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="535327703" immovable="1" name="Cube.207">
+			<mesh_name>guid://15804159b2e83e5ab276e4695e49479f298d1916</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -0.234048275001 -2.11644153639 0.504282210346 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1231257418" immovable="1" name="Cube.208">
+			<mesh_name>guid://6ebac6c426311171d42b24f4119509b003bdfd7d</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -0.230777949615 -0.756164885087 0.504282226898 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="158197281" immovable="1" name="Cube.209">
+			<mesh_name>guid://9c560c3339f143cef6ebb5c3b47dd869e149a0b8</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -0.222026094643 0.618507146102 0.504282243625 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="2045626636" immovable="1" name="Cube.212">
+			<mesh_name>guid://fc81399640dbf7eb6043f346a4a0310ab52d6cb7</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -0.215095352392 1.98958225144 0.517762446771 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1305014523" immovable="1" name="Cube.213">
+			<mesh_name>guid://f8c6fe9dd516ef2681fe12ad4a0eedcb26ed62aa</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.82583937833 1.8822428131 0.517762445465 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1210724894" immovable="1" name="Cube.214">
+			<mesh_name>guid://1705a4b8b4dae077381325e89a911fc56e66b201</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.5658019577 -2.10033681188 1.00428216286 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="460944101" immovable="1" name="Cube.215">
+			<mesh_name>guid://429b431722a104294f34c5a73d35cc4124ab636c</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.56940776719 -0.740061447874 1.00428217941 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1035863808" immovable="1" name="Cube.216">
+			<mesh_name>guid://afef20aaf4d6d7e4935db55a8ab1421e184c07db</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.56760481244 0.634637477101 1.00428219614 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1155485279" immovable="1" name="Cube.217">
+			<mesh_name>guid://a13a08217e53862d00969d31db2e6b9c87cf9b7e</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.56760420686 2.005730464 1.01776239928 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1548142642" immovable="1" name="Cube.218">
+			<mesh_name>guid://d36179eccf578e069fd84e1cee14a77d093c0cc5</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.83480343476 1.81844171543 1.017762397 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="749537769" immovable="1" name="Cube.219">
+			<mesh_name>guid://2579203b8ea4e9e281620bcb689c8bd9e0cf1760</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.834803007 -0.0836139653266 1.01776237386 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1793870388" immovable="1" name="Cube.220">
+			<mesh_name>guid://7aa450fecba1500aeb0670aebe77744672a3633f</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 0.287076499048 2.04033163057 1.00428221324 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="252932099" immovable="1" name="Cube.223">
+			<mesh_name>guid://b6b5a1e577567557964dc7f5b30a9e62d96d1792</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 0.268122980392 -2.06569234832 1.01776234974 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="794285446" immovable="1" name="Cube.224">
+			<mesh_name>guid://16df3a604e3dd7f766ee9190766a9c960b9f51c9</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.87886710169 -1.95835310071 1.01776235105 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="2098081581" immovable="1" name="Cube.221">
+			<mesh_name>guid://e25d879f9bc73160347a6c2fcfe3be484abd3094</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.56631236175 2.00010351261 1.50428221275 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1482180264" immovable="1" name="Cube.222">
+			<mesh_name>guid://d7f2de92138fd3ba4bab39424923217927d962e3</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.56991750367 0.63982829165 1.5042821962 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1266252263" immovable="1" name="Cube.225">
+			<mesh_name>guid://21524fe9286b629d4c7d16f99e39d671880a6ae6</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.56811454892 -0.734870776375 1.50428217947 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1606102554" immovable="1" name="Cube.226">
+			<mesh_name>guid://c2b71a148ee4c7a0572124443085b93cbc04050d</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.56811394335 -2.1059637636 1.51776234925 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="769173169" immovable="1" name="Cube.227">
+			<mesh_name>guid://04cc9d436d50b756252b0ad37904090ee0eb6308</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.83429360291 -1.91867444282 1.51776235153 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="706932828" immovable="1" name="Cube.228">
+			<mesh_name>guid://cb261d665422e3a6bd6263163cb56c8d1da02ac7</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.83429336588 -0.0166188008142 1.51776237468 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1156960267" immovable="1" name="Cube.229">
+			<mesh_name>guid://44a8d62dfe2eb3e9fa0e4e3d96798f4fbc0b697a</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -0.286566977141 -2.14056454838 1.50428216237 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="2128733678" immovable="1" name="Cube.230">
+			<mesh_name>guid://aa3c8d084ba867c1cf867a381eb07452a1f3ea91</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -0.267612814756 1.96545923945 1.51776239879 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="599946357" immovable="1" name="Cube.231">
+			<mesh_name>guid://eb44c527df66946663ab4bb7cef3a5628d70a2bc</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.87835669764 1.85812037331 1.51776239749 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1730313040" immovable="1" name="Cube.232">
+			<mesh_name>guid://dc96a17a6fee5574c3ff822adac2cdb6305a1eeb</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.58028426462 -2.07941797757 2.00428216311 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1092687471" immovable="1" name="Cube.233">
+			<mesh_name>guid://675638b1c5252798abff71c1c9cda0669e47274e</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.58388940654 -0.719142995028 2.00428217967 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1793347842" immovable="1" name="Cube.234">
+			<mesh_name>guid://6e12473c6ef3e11e72b4476c94c575ad76530655</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.58208654716 0.655556263732 2.00428219639 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="192928889" immovable="1" name="Cube.235">
+			<mesh_name>guid://3262a34be30cfd01a7e0d2db8e0db9a8f17923b0</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.58208527401 2.02664929831 2.01776239954 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1268145028" immovable="1" name="Cube.236">
+			<mesh_name>guid://bffe3ecec5536a3f10676a7e5d2e58c63ffde34f</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.82032227224 1.83935940533 2.01776239726 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1802252563" immovable="1" name="Cube.237">
+			<mesh_name>guid://8abfbb7560e768678e26c585aa3ac4a8d79bf862</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.82032165375 -0.0626962694605 2.01776237412 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="391512918" immovable="1" name="Cube.238">
+			<mesh_name>guid://a29e3cb0ce60c71a50337fe01557585795e39c59</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 0.272595551108 2.06124989268 2.0042822135 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="75981501" immovable="1" name="Cube.239">
+			<mesh_name>guid://8a451baf24a345f19fc3843f41ef1cc7cdfa59e4</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 0.253640792676 -2.04477408621 2.01776235 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="219890936" immovable="1" name="Cube.240">
+			<mesh_name>guid://b80c09623b4c45d99f24301205f542c0393a5bf3</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.86438479477 -1.9374354108 2.0177623513 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="8668151" immovable="1" name="Cube.241">
+			<mesh_name>guid://3716e279b27abfcdd836cd891a81e4f65fc370b6</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.54217505605 2.02102234716 2.50428240374 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="425316586" immovable="1" name="Cube.242">
+			<mesh_name>guid://75bda164152f6205bd345794a6b5ffb8fa0a309d</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.54578048407 0.660747364619 2.50428238719 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="907397953" immovable="1" name="Cube.243">
+			<mesh_name>guid://1a315253161233505c0183e3d9e94d9abda6f958</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.54397781542 -0.713952037193 2.50428237046 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="64957356" immovable="1" name="Cube.244">
+			<mesh_name>guid://0b3855367c7b9e16983926e6d378b54ebedaacd7</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.54397663764 -2.08504492905 2.51776254024 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="502706971" immovable="1" name="Cube.245">
+			<mesh_name>guid://ff9d71bd9803f71183024dcd058b4863ef66644a</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.85843090861 -1.89775560827 2.51776254252 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="183881150" immovable="1" name="Cube.246">
+			<mesh_name>guid://47b8e95820a6f35450824288dd887e18fbd18721</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.85843067159 0.00430007061598 2.51776256567 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1383209477" immovable="1" name="Cube.247">
+			<mesh_name>guid://d676ab3772f68f2e3ee335c7362ef922b422f60c</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -0.310704044427 -2.11964571383 2.50428235336 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1830110112" immovable="1" name="Cube.248">
+			<mesh_name>guid://1dd8b64a1aa2d1c78436e2fabac675b0576a39fb</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -0.291749882041 1.986378074 2.51776258978 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1511334527" immovable="1" name="Cube.249">
+			<mesh_name>guid://c3296d41935e2a63ca004a51a6b7cb6fa970e71e</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.90249400334 1.87903920786 2.51776258848 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="430394834" immovable="1" name="Cube.250">
+			<mesh_name>guid://eb77c88c4accffb3b5b7f4bcb09678d2652ea3e5</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.6214539083 -2.09060229965 3.00428216298 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1282511625" immovable="1" name="Cube.251">
+			<mesh_name>guid://6c92ca5bfb14d674116f3deb4c085cadf6778400</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.62505933632 -0.730326697219 3.00428217953 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="984219860" immovable="1" name="Cube.252">
+			<mesh_name>guid://0574009e5e4d0be1aa8f384e3c8903544318a75f</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.62325647693 0.644372180071 3.00428219626 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="135886371" immovable="1" name="Cube.253">
+			<mesh_name>guid://ece91905e13119c6bd1007159e04e41acfa64d32</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 -1.62325625283 2.0154653577 3.0177623994 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1412883750" immovable="1" name="Cube.254">
+			<mesh_name>guid://81f53300f1f246fc4bb3623087f4f3f89484cae9</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.77915157952 1.82817679987 3.01776239712 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1127987789" immovable="1" name="Cube.255">
+			<mesh_name>guid://a99593bf0e67deb022ce804fc216001580c71734</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.7791513425 -0.0738793219607 3.01776237398 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="607590216" immovable="1" name="Cube.256">
+			<mesh_name>guid://a95648321e27c585ad293ae2fa78652c5dddd903</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 0.231424810709 2.05006633354 3.00428221336 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1284100615" immovable="1" name="Cube.257">
+			<mesh_name>guid://3966f90909aa3675667d0819c7de685096752a86</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 0.228154294588 0.689789634558 3.00428219681 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="197945274" immovable="1" name="Cube.258">
+			<mesh_name>guid://24f35cb476b219ebc249bee4d7898b06b669802d</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 0.21940222504 -0.684882539683 3.00428218008 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1749963729" immovable="1" name="Cube.259">
+			<mesh_name>guid://7ec52b6356d41dbd95f020f3d71badd70d4163a8</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 0.212471220528 -2.05595764535 3.01776234986 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1832352508" immovable="1" name="Cube.260">
+			<mesh_name>guid://c464e106fb9f52e8b5353eb61b5305bcb1ddf2e7</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>1 -1.46936793853e-39 0 0.0 0 1 0 0.0 -4.93038065763e-32 0 1 0.0 1.8232154372 -1.94861858847 3.01776235117 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1708956203" immovable="1" name="Cube.261">
+			<mesh_name>guid://c3cdd14d6fcee0294943115da20c6f4a6c0b531a</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>0.937714684381 -0.347406176523 -4.22722603279e-09 0.0 0.347406176523 0.937714684381 -7.57885404891e-10 0.0 4.2272259959e-09 -7.57885610638e-10 1 0.0 -0.369276375174 1.20014816739 3.5000000146 1.0</transform>
+		</node>
+		<node type="ObjectMeshStatic" id="1547889038" immovable="1" name="Cube.262">
+			<mesh_name>guid://d4efb9a8d12b844f2b3b7ed8830fda7059a887b1</mesh_name>
+			<surface name="Cement" intersection="1" material="691fc4f226ac11d9df2987a26cb956bf855afcc3"/>
+			<transform>0.977622293961 0.210367326201 2.5597421453e-09 0.0 -0.210367326201 0.977622293961 -2.72291194415e-10 0.0 -2.55974215855e-09 -2.72291069828e-10 1 0.0 -0.0692393545694 -0.507754986658 3.49999999382 1.0</transform>
+		</node>
+	</node>
+</nodes>

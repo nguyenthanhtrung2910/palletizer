@@ -781,7 +781,7 @@
 			<transform>0.999999880791 0 0 0.0 0 0.999999880791 0 0.0 0 0 0.999999940395 0.0 0 -10.5 3 1.0</transform>
 		</node>
 		<node type="NodeDummy" id="798224037" name="palet">
-			<transform>0.664253115654 -4.39565523733e-24 -2.96118562605e-16 0.0 -6.45309874703e-24 0.664253115654 -2.43359234986e-08 0.0 4.45791640195e-16 3.66365142668e-08 0.999999821186 0.0 0 0 0 1.0</transform>
+			<transform>0.997666954994 -6.60199782061e-24 -2.96118589074e-16 0.0 -6.21172003041e-25 0.99766689539 -2.43359181695e-08 0.0 2.96811012039e-16 2.43928255372e-08 0.999999821186 0.0 0 0 0 1.0</transform>
 			<node type="ObjectMeshStatic" id="1713688512" immovable="1" name="Plane">
 				<mesh_name>guid://a96a656daf7031e606e46e12ab531d78ef19f8d8</mesh_name>
 				<surface name="Material.003" intersection="1" material="e2073ddd5703ef1ca5b277428677bc1f1b988288"/>
@@ -1309,7 +1309,7 @@
 		</node>
 		<node type="NodeDummy" id="455518219" name="screenshot_maker">
 			<properties>
-				<property parent="6cb5e71cd78da15b9190243b44844e6529d92758" guid="70560f53464f691dd3232f6808bafc05b5f53aa1">
+				<property parent="6cb5e71cd78da15b9190243b44844e6529d92758" guid="7ebab899e801f0700bb757e141abfffea4b7641d">
 					<parameter name="size">1920 1080</parameter>
 					<parameter name="format">2</parameter>
 				</property>

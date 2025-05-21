@@ -79,7 +79,7 @@ void ScreenshotMaker::update()
 					auto str_formats = String::split("tga,png,jpg", ",");
 
 					String fullName = String::format("%s_%d.%s", name_prefix.get(), count, str_formats[format.get()]);
-					image->save(fullName.get());
+					image->save(("../frames/"+fullName).get());
 					Console::onscreenMessageLine(Math::vec4_green, "%s saved.", fullName.get());
 
 				}),

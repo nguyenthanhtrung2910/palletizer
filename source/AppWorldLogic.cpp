@@ -39,7 +39,7 @@ int AppWorldLogic::init()
             float x{std::stof(matches[4])/SCALE};
             float y{std::stof(matches[5])/SCALE};
             float z{std::stof(matches[6])/SCALE};
-			Math::vec3 centerPoint{(a+x)/2 - 2.5f, (b+y)/2 - 2.5f, (c+z)/2 + 1.44f};
+			Math::vec3 centerPoint{(a+x)/2 - 6.0f, (b+y)/2 - 4.0f, (c+z)/2 + 1.44f};
 			Math::vec3 size{Math::abs(a-x), Math::abs(b-y), Math::abs(c-z)};
             m_boxesData.emplace_back(centerPoint, size);
         }

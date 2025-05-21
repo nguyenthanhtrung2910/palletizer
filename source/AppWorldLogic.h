@@ -8,8 +8,8 @@
 #include <UnigineLogic.h>
 #include <UnigineStreams.h>
 
-inline constexpr float SCALE{200.0f};
-inline constexpr int BOX_SPAWN_FREQ{100};
+inline constexpr float SCALE{100.0f};
+inline constexpr int BOX_SPAWN_FREQ{300};
 
 class AppWorldLogic : public Unigine::WorldLogic
 {
